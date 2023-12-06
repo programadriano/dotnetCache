@@ -1,0 +1,6 @@
+@dotnetCache_HostAddress = http://localhost:5234
+
+GET {{dotnetCache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
